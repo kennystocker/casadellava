@@ -1,4 +1,6 @@
-Casa dell'Ava - Holiday rental home in the Alps    .prices {} .prices td {border-top: 1px solid #cccccc; padding: 4px; color: #666666; font-size: 80%;}
+Casa dell'Ava - Holiday rental home in the Alps
+
+
 
 [![Casa dell'Ava](images/header.gif "Casa dell'Ava - Holiday rental home in the Alps")](/)
 
